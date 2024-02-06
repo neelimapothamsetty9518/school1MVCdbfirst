@@ -1,0 +1,54 @@
+ 
+# Temporary and Build Files
+/bin/
+/obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific Files
+*.user
+*.suo
+.vs/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sln
+*.csproj.user
+*.userprefs
+.project
+.settings/
+
+# Dependency and Package Manager Files
+/packages/
+/node_modules/
+/bower_components/
+
+# Compiled Output
+/bin/
+/obj/
+
+# Logs and Debugging Output
+*.log
+*.log.*
+*.stackdump
+logs/
+
+# Configuration Files
+*.config.user
+Web.config
+App.config
+
+# Environment-specific Files
+.env
+.env.local
+.env.*
+
+# Generated Files
+/Generated/
+/GeneratedFiles/
+
+# Other Commonly Ignored Files
+.DS_Store
+Thumbs.db
